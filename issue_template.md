@@ -23,11 +23,11 @@ CHANGEME Tell us what should happen instead.
 
 **Branch(es):**
 
-CHANGEME 3.3.5, master or both
+Master
 
 **TC rev. hash/commit:** 
 
-CHANGEME Copy the result of server debug command (if you need to run it from client get prat addon)
+Do not worry about this.
 
 **Operating system:** CHANGEME OS
 
